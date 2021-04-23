@@ -19,7 +19,7 @@ This homework we have made a Work Day Schedule. In this webpage it saves your ev
 - Present: ![red](https://github.com/michelaqyteza/Homework-5/blob/main/Pictures/red.png)
 
 
-- Future: ![green](https://github.com/michelaqyteza/Homework-5/blob/main/Pictures/green.png) \
+- Future: ![green](https://github.com/michelaqyteza/Homework-5/blob/main/Pictures/green.png) 
 ---
 
 ## Website
