@@ -13,8 +13,12 @@ This homework we have made a Work Day Schedule. In this webpage it saves your ev
 
 3. With this work day schedule the boxes during that time grey if the  time already happend, red if your in the current time, and green if the time block is in the future. 
 
-- Past: ![grey]()
-- Present: ![red]()
+- Past: ![grey](https://github.com/michelaqyteza/Homework-5/blob/main/Pictures/grey.PNG)
+
+
+- Present: ![red](https://github.com/michelaqyteza/Homework-5/blob/main/Pictures/red.png)
+
+
 - Future: ![green](https://github.com/michelaqyteza/Homework-5/blob/main/Pictures/green.png) \
 ---
 
