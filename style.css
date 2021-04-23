@@ -37,6 +37,7 @@ body {
   }
   
   .hour {
+    text-align: center;
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
@@ -53,11 +54,13 @@ body {
   }
   
   .future {
+    text-align: center;
     background-color: #77dd77;
     color: white;
   }
   
   .saveBtn {
+    text-align: center;
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
